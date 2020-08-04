@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function unhandledPresenceUpdate(client, oldMember, newMember) {
+}
+exports.default = unhandledPresenceUpdate;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidW5oYW5kbGVkUHJlc2VuY2VVcGRhdGUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9zcmMvRXZlbnRzL0d1aWxkL01lbWJlci91bmhhbmRsZWRQcmVzZW5jZVVwZGF0ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUdBLFNBQXdCLHVCQUF1QixDQUFDLE1BQVcsRUFBRSxTQUE4QixFQUFFLFNBQThCO0FBRTNILENBQUM7QUFGRCwwQ0FFQyJ9
