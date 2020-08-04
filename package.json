@@ -1,0 +1,47 @@
+{
+  "name": "weirdtrexy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ksoft/api": "^3.1.9",
+    "@types/common-tags": "^1.8.0",
+    "@types/klaw-sync": "^6.0.0",
+    "@types/node": "^13.11.1",
+    "@types/ws": "^7.2.4",
+    "apextab-api": "^1.0.5",
+    "ascii-art": "^2.5.0",
+    "ascii-art-font": "^1.0.2",
+    "ascii-art-image": "^1.2.2",
+    "ascii-art-utf": "0.0.1",
+    "better-sqlite3": "^7.0.1",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "date-fns": "^2.12.0",
+    "discord-logs": "^1.7.5",
+    "discord-rich-embed-menu": "^1.0.1",
+    "discord.js": "^12.2.0",
+    "erela.js": "^1.1.8",
+    "follow-redirects": "^1.11.0",
+    "fs": "0.0.1-security",
+    "klaw-sync": "^6.0.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "novelcovid": "^1.2.7",
+    "radio-browser": "^2.0.3",
+    "request": "^2.88.2",
+    "typescript": "^3.8.3",
+    "weather-js": "^2.0.0",
+    "ws": "^7.2.3"
+  },
+  "devDependencies": {
+    "@types/ascii-art": "^1.4.0"
+  }
+}
