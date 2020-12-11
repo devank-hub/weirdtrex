@@ -33,7 +33,7 @@
     "klaw-sync": "^6.0.0",
     "moment": "^2.24.0",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "novelcovid": "^1.2.7",
     "radio-browser": "^2.0.3",
     "request": "^2.88.2",
