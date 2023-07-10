@@ -31,7 +31,7 @@
     "follow-redirects": "^1.11.0",
     "fs": "0.0.1-security",
     "klaw-sync": "^6.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ms": "^2.1.2",
     "node-fetch": "^2.6.1",
     "novelcovid": "^1.2.7",
